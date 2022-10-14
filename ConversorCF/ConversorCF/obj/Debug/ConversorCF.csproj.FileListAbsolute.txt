@@ -1,0 +1,10 @@
+C:\Users\Víctor\Desktop\UPC\SO\EjercicioGuiaGitHub\MiEjercicioGuia\ConversorCF\ConversorCF\bin\Debug\ConversorCF.exe.config
+C:\Users\Víctor\Desktop\UPC\SO\EjercicioGuiaGitHub\MiEjercicioGuia\ConversorCF\ConversorCF\bin\Debug\ConversorCF.exe
+C:\Users\Víctor\Desktop\UPC\SO\EjercicioGuiaGitHub\MiEjercicioGuia\ConversorCF\ConversorCF\bin\Debug\ConversorCF.pdb
+C:\Users\Víctor\Desktop\UPC\SO\EjercicioGuiaGitHub\MiEjercicioGuia\ConversorCF\ConversorCF\obj\Debug\ConversorCF.csprojAssemblyReference.cache
+C:\Users\Víctor\Desktop\UPC\SO\EjercicioGuiaGitHub\MiEjercicioGuia\ConversorCF\ConversorCF\obj\Debug\ConversorCF.Form1.resources
+C:\Users\Víctor\Desktop\UPC\SO\EjercicioGuiaGitHub\MiEjercicioGuia\ConversorCF\ConversorCF\obj\Debug\ConversorCF.Properties.Resources.resources
+C:\Users\Víctor\Desktop\UPC\SO\EjercicioGuiaGitHub\MiEjercicioGuia\ConversorCF\ConversorCF\obj\Debug\ConversorCF.csproj.GenerateResource.cache
+C:\Users\Víctor\Desktop\UPC\SO\EjercicioGuiaGitHub\MiEjercicioGuia\ConversorCF\ConversorCF\obj\Debug\ConversorCF.csproj.CoreCompileInputs.cache
+C:\Users\Víctor\Desktop\UPC\SO\EjercicioGuiaGitHub\MiEjercicioGuia\ConversorCF\ConversorCF\obj\Debug\ConversorCF.exe
+C:\Users\Víctor\Desktop\UPC\SO\EjercicioGuiaGitHub\MiEjercicioGuia\ConversorCF\ConversorCF\obj\Debug\ConversorCF.pdb
